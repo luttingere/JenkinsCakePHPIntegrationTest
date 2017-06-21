@@ -12,4 +12,9 @@ namespace App\Controller;
 class TestController
 {
 
+    public  function testFunction(){
+
+    }
+
+
 }
