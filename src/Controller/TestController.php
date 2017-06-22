@@ -13,7 +13,7 @@ class TestController
 {
 
     public  function testFunction(){
-            echo "Tesrt Controller";
+            echo "Tesrt Controller 22222";
     }
 
 
