@@ -13,7 +13,7 @@ class TestController
 {
 
     public  function testFunction(){
-            echo "Vladimir es marico";
+            echo "Tesrt Controller";
     }
 
 
